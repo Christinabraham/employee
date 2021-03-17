@@ -23,6 +23,9 @@
         <li class="nav-item">
           <a class="nav-link" href="/empsearch">Search Emp</a>
         </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/aboutus">About us</a>
+        </li>
         
       </ul>
     </div>

@@ -19,3 +19,7 @@ Route::get('/', function () {
 Route::get('/empsearch', function () {
     return view('empsearch');
 });
+Route::get('/aboutus', function () {
+    return view('aboutus');
+});
+
